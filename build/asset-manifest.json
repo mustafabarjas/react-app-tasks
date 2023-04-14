@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.891276e8.css",
+    "main.js": "/static/js/main.d98a81d8.js",
+    "static/media/Group.svg": "/static/media/Group.0366808c54a35fc4d89a2b86a4735567.svg",
+    "static/media/constractor-logo.svg": "/static/media/constractor-logo.519ff81217ec6bdd2d6de7b6baeac950.svg",
+    "index.html": "/index.html",
+    "main.891276e8.css.map": "/static/css/main.891276e8.css.map",
+    "main.d98a81d8.js.map": "/static/js/main.d98a81d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891276e8.css",
+    "static/js/main.d98a81d8.js"
+  ]
+}
